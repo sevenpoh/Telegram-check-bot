@@ -1,0 +1,1 @@
+web: python playwright_install.py && python bot.py
