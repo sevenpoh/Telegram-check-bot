@@ -1,0 +1,1 @@
+Bot Telegram com playwright para checagem automática.
